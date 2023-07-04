@@ -1,12 +1,13 @@
 <h1 align="center">Hi 👋, I'm Ujjawal</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
- <img alt="GIF" src="https://media.giphy.com/media/VDB85YZsrqMXx3c7DE/giphy.gif" width="70%" height="70%"/>
+<!--  <img alt="GIF" src="https://media.giphy.com/media/VDB85YZsrqMXx3c7DE/giphy.gif" width="70%" height="70%"/> -->
 
 <p align="center"> <img src="https://media.giphy.com/media/a5viI92PAF89q/giphy.gif" alt="sri-amxn" /> 
 </p>
 
-- 🌱 I’m currently learning **MERN stack**
-
+- 🌱 I’m currently learning MERN stack
+- 👯 I’m looking to collaborate on small projects
+- 📝 Undergraduate student at Manipal University Jaipur
 - 📫 How to reach me **srivastava.ujjawal2011@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
