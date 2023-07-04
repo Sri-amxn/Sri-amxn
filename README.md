@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ujjawal</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
  <img alt="GIF" src="https://media.giphy.com/media/VDB85YZsrqMXx3c7DE/giphy.gif" width="70%" height="70%"/>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sri-amxn&label=Profile%20views&color=0e75b6&style=flat" alt="sri-amxn" /> </p>
+<p align="center">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sri-amxn&label=Profile%20views&color=0e75b6&style=flat" alt="sri-amxn" /> 
+</p>
 
 - 🌱 I’m currently learning **MERN stack**
 
