@@ -2,7 +2,7 @@
 <h3 align="center">A passionate fullstack developer from India</h3>
 <!--  <img alt="GIF" src="https://media.giphy.com/media/VDB85YZsrqMXx3c7DE/giphy.gif" width="70%" height="70%"/> -->
 
-<p align="center"> <img src="https://media.giphy.com/media/a5viI92PAF89q/giphy.gif" alt="sri-amxn" /> 
+
 </p>
 
 - 🌱 I’m currently learning MERN stack
