@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ujjawal</h1>
 
 <h3 align="center">A passionate fullstack developer from India</h3>
- <img alt="GIF" src="https://media.giphy.com/media/VDB85YZsrqMXx3c7DE/giphy.gif" width="70%" height="70%"/>
+<p align = "center">
+ <img  width ="400" alt="GIF" src="https://user-images.githubusercontent.com/74038190/240825384-504a2680-59a6-420e-b297-5ae89d68e377.gif" width="70%" height="90%"/>
+</p>
 
 
 </p>
